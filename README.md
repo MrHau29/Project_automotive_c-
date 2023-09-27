@@ -1,6 +1,7 @@
 # cài đặt hệ thống infotainment trên ô tô
-Tác giả: Hoàng Văn Hậu
+Tác giả: Hoàng Văn Hậu.
 
+TimeLine: 27/10/2022 - 5/11/2022
 
 Email: hoanghau290698@gmail.com
 
